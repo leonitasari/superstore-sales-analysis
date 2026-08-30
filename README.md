@@ -27,4 +27,3 @@ b. Prioritize profitable products and customers, rather than focusing solely on 
 c. Evaluate high-sales but low-profit products to identify opportunities for pricing and cost optinization.
 d. Monitor profit margin as key KPI alongside total sales and order volume.
 e. Regularly review loss-making products and categories to improve overall profitability
-6. Overall Profit Margin is Approximately 12%
