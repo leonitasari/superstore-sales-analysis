@@ -22,8 +22,8 @@ Key Insights
 
 
 Recommendations
-a. Review discount strategies, especially high-discount transactions that generate negative profit.
-b. Prioritize profitable products and customers, rather than focusing solely on sales volume.
-c. Evaluate high-sales but low-profit products to identify opportunities for pricing and cost optinization.
-d. Monitor profit margin as key KPI alongside total sales and order volume.
-e. Regularly review loss-making products and categories to improve overall profitability
+1. Review discount strategies, especially high-discount transactions that generate negative profit.
+2. Prioritize profitable products and customers, rather than focusing solely on sales volume.
+3. Evaluate high-sales but low-profit products to identify opportunities for pricing and cost optinization.
+4. Monitor profit margin as key KPI alongside total sales and order volume.
+5. Regularly review loss-making products and categories to improve overall profitability
