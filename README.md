@@ -19,7 +19,7 @@ Key Insights
 2. High Discount Can Reduce Profitability
    High discount rates are associated with negative profit in several transactions. One transaction recorded a 70% discount and a loss of approximately $6,599.98, indicating that excessive discounting can significantly reduce profitability.
 3. Significant Negative Profit Transactions
-   The dataset contains 9,964 transactions with negative profit, indicating that certain products, customers, or discount strategies may be contributing to business losses.
+   The dataset contains 2,128 transactions with negative profit, indicating that certain products, customers, or discount strategies may be contributing to business losses.
 4. Overall Profit Margin is Approximately 12%
    With total sales of approximately $2.30 million and total profit of approximately $286,000, the overall profit margin is around 12%. This means the business generates approximately $12 in profit for every $100 in sales.
 
