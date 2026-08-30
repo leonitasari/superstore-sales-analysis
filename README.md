@@ -2,7 +2,7 @@
 
 This repository uses Microsoft Excel, MySQL, and Google Data Studio for data cleaning, analysis, and visualization.
 
-<img width="502" height="409" alt="Dashboad Superstore - Data Studio" src="https://github.com/user-attachments/assets/1da3a5a2-07e5-4615-80f0-d8e93e3d667d" />
+<img width="479" height="398" alt="superstore dashboard data studio" src="https://github.com/user-attachments/assets/8f750525-8444-4973-99b1-5af5eff91c4f" />
 
 
 View interactive dashboard - Google Data Studio
